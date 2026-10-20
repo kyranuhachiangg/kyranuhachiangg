@@ -6,7 +6,7 @@ First year student in Universiti Teknologi Malaysia pursuing Computer Science in
 
 ### CONTACTS
 - **LinkedIn:** (https://linkedin.com/in/kyranuhachiang)
-- **Emel:** (kyranchiang@gmail.com)
+- **Email:** (kyranchiang@gmail.com)
 
 ---
 
