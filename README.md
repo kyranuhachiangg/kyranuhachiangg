@@ -19,8 +19,8 @@ Seorang yang baharu memulakan langkah dalam dunia pengaturcaraan dan pembangunan
 ---
 
 ### 📫 Hubungi Saya
-- **LinkedIn:** [Pautan LinkedIn Anda](https://linkedin.com/in/username-anda)
-- **Emel:** [emel@contoh.com](mailto:emel@contoh.com)
+- **LinkedIn:** (https://linkedin.com/in/kyranuhachiangg)
+- **Emel:** (mailto:kyranchiang@gmail.com)
 
 ---
 
