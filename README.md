@@ -19,7 +19,7 @@ Seorang yang baharu memulakan langkah dalam dunia pengaturcaraan dan pembangunan
 ---
 
 ### 📫 Hubungi Saya
-- **LinkedIn:** (https://linkedin.com/in/kyranuhachiangg)
+- **LinkedIn:** (https://linkedin.com/in/kyranuhachiang)
 - **Emel:** (mailto:kyranchiang@gmail.com)
 
 ---
