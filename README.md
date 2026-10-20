@@ -1,6 +1,6 @@
-# Hai, I'm Kyra Nuha Chiang! 👋
+# Hi, I'm Kyra Nuha Chiang! 👋
 
-Currently a student in Universiti Teknologi Malaysia pursuing Computer Science in Data Engineering
+First year student in Universiti Teknologi Malaysia pursuing Computer Science in Data Engineering
 
 ---
 
