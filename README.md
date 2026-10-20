@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hai, saya Kyra Nuha Chiang! 👋
 
-<!--
-**kyranuhachiangg/kyranuhachiangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang yang baharu memulakan langkah dalam dunia pengaturcaraan dan pembangunan perisian.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Berkenaan Saya
+- 🔭 **Sedang belajar:** GitHub & Asas Pengaturcaraan
+- 🎯 **Matlamat:** Membina projek-projek menarik dan terus berkembang
+- 💬 **Tanya saya tentang:** Apa-apa topik asas yang sedang saya pelajari!
+
+---
+
+### 🛠️ Bahasa & Peralatan (Tools)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
+---
+
+### 📫 Hubungi Saya
+- **LinkedIn:** [Pautan LinkedIn Anda](https://linkedin.com/in/username-anda)
+- **Emel:** [emel@contoh.com](mailto:emel@contoh.com)
+
+---
+
+> *"Setiap langkah kecil adalah kemajuan."*
